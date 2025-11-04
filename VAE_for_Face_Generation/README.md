@@ -48,7 +48,7 @@ Many AI tasks are blocked by a lack of data. This project builds a generative mo
 -   **Latent Space Interpolation:** A "morph" between two real faces, proving the model learned a smooth, meaningful feature representation.
 
 ![Training Loss](images/loss_curves.png)
-![Generated Faces](images/generated_faces.jpg)
+![Generated Faces](images/generated_faces.png)
 ![Latent Space Interpolation](images/interpolation.png)
 
 ---
