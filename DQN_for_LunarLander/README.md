@@ -55,8 +55,8 @@ This project implements a Deep Q-Network (DQN) **from scratch** to train an auto
 -   **Final Trained Agent (GIF):** A demonstration of the final, "intelligent" policy in action, showing the agent successfully landing the craft.
 -   **Training Rewards Plot:** The technical proof of learning, showing the agent's average score (red line) starting from negative values and climbing to well above the "Solved" threshold (green line).
 
-![Trained Agent Landing](images/lunar_lander_solved.gif)
-![Training Reward Curve](images:dqn_reward_plot.png)
+![Trained Agent Landing](gif/lunar_lander_solved.gif)
+![Training Reward Curve](images/dqn_reward_plot.png)
 
 ---
 
