@@ -64,8 +64,8 @@ This shows the critical importance of benchmarking before deploying a complex mo
 *(Note: You will need to rename your saved image files in your `images` folder to match these paths)*
 
 ![Training Loss](images/transformer_loss_curves.png)
-![Best Case Forecast](images/best_case_forecast.png)
-![Worst Case Forecast](images/worst_case_forecast.png)
+![Best Case Forecast](images/best_case_forecast_(lowest_error).png)
+![Worst Case Forecast](images/worst_case_forecast_(highest_error).png)
 
 ---
 
